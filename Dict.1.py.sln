@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dict.1.py", "Dict.1.py\Dict.1.py.pyproj", "{DE174C13-0340-42F2-9A69-AC9FECA28FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE174C13-0340-42F2-9A69-AC9FECA28FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE174C13-0340-42F2-9A69-AC9FECA28FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1842380E-0BFF-45D2-885A-02CA6CEDE28F}
+	EndGlobalSection
+EndGlobal
